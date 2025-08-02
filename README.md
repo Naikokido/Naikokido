@@ -65,9 +65,11 @@ I enjoy learning and working on systems that make a real-world impact. Currently
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naikokido&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naikokido&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naikokido&layout=compact&theme=tokyonight)
 
 
 <!--
