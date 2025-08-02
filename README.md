@@ -69,8 +69,6 @@ I enjoy learning and working on systems that make a real-world impact. Currently
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naikokido&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naikokido&layout=compact&theme=tokyonight)
-
 
 <!--
 **Naikokido/Naikokido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
